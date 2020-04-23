@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Key Ruby concepts explained. "
-date:       2020-04-23 16:19:12 +0000
+date:       2020-04-23 12:19:13 -0400
 permalink:  key_ruby_concepts_explained
 ---
 
